@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Aula_Mobile_13_exe1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="cadastrar">cadastrar</string>
+    <string name="atualizar">atualizar</string>
+    <string name="listar">listar</string>
+    <string name="excluir">excluir</string>
+    <string name="consultar">consultar</string>
+
+
+    <string name="codigo">CODIGO</string>
+    <string name="quantidade">QUANTIDADE</string>
+    <string name="nome">NOME</string>
+    <string name="edicao">EDICAO</string>
+    <string name="ISBN">ISBN</string>
+    <string name="ISSN">ISSN</string>
+
+
+    <string name="dataDevolucao">DATA DE DEVOLUCAO</string>
+    <string name="dataRetirada">DATA DE RETIRADA</string>
+
+    <string name="ALUNO">ALUNO</string>
+
+    <string name="REVISTA">REVISTA</string>
+    <string name="LIVRO">LIVRO</string>
+
+    <string name="ALUGUELREVISTA">ALUGUEL REVISTA</string>
+    <string name="ALUGUELLIVRO"> ALUGUEL LIVRO</string>
+
+
+    <string name="RA">RA</string>
+    <string name="email">email</string>
+
+
+
+</resources>

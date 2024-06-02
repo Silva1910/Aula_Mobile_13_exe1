@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_aluno"
+        android:title="@string/ALUNO" />
+    <item
+        android:id="@+id/item_livro"
+        android:title="@string/LIVRO" />
+    <item
+        android:id="@+id/item_revista"
+        android:title="@string/REVISTA" />
+    <item
+        android:id="@+id/item_aluguelRevista"
+        android:title="@string/ALUGUELREVISTA" />
+    <item
+        android:id="@+id/item_aluguelLivro"
+        android:title="@string/ALUGUELLIVRO" />
+</menu>
